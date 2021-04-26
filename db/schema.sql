@@ -1,5 +1,5 @@
 drop database if exists ecommerce_db;
-create database ecommerce_db;
+create database if not exists ecommerce_db;
 use ecommerce_db;
 
 create table Category (
