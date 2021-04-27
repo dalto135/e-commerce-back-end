@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
-[Project Link](#Link)  
+[Video Link](#Link)  
 [Technologies](#Technologies)  
 [Description](#Description)  
 [Screenshots](#Screenshots)  
@@ -14,17 +14,17 @@
 https://dalto135.github.io/portfolio/
 
 ## Technologies
-HTML and CSS
+Javascript, Sequelize, Express, MYSQL2, Dotenv
 
 ## Description
-A portfolio website designed to both provide my personal information and demonstrate various skills using html and css. For the displayed work, I have the first group project completed in the bootcamp as well as two exemplary homework assignments. Links to the git pages and github sites are available in this section.
+A backend application using sequelize to allow users to view, create, update and delete items in a database of categories, products, tags, and product-tag associations. Individual items can be updated, deleted and viewed using item IDs.
 
 ## Screenshots
 ![Screenshot 1](assets/images/screenshot1.png)
-![Screenshot 2](assets/images/screenshot2.png)
+![Screenshot 1](assets/images/screenshot2.png)
 
 ## License
 MIT
 
 ## Contact
-Dalton Wilkins - wilkins.271@osu.edu
+Dalton Wilkins - [wilkins.271@osu.edu](mailto:wilkins.271@osu.edu)
