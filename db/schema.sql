@@ -11,7 +11,7 @@ create table Category (
 create table Product (
 	id int not null auto_increment,
     product_name varchar(30),
-    price decimal(2,2) not null,
+    price decimal(20,2) not null,
     stock int not null,
     category_id int,
     primary key (id),
