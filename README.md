@@ -20,8 +20,8 @@ Javascript, Dotenv, Express, MYSQL2, Sequelize
 A backend application using sequelize that allows users to view, create, update and delete items in a database of categories, products, tags, and product-tag associations. Individual items can be updated, deleted and viewed using item IDs.
 
 ## Screenshots
-![Screenshot 1](assets/images/screenshot1.png)
-![Screenshot 1](assets/images/screenshot2.png)
+![Screenshot 1](Assets/images/screenshot1.png)
+![Screenshot 1](Assets/images/screenshot2.png)
 
 ## License
 MIT
