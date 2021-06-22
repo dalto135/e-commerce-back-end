@@ -27,4 +27,4 @@ A backend application using sequelize that allows users to view, create, update 
 MIT
 
 ## Contact
-Dalton Wilkins - wilkins.271@osu.edu
+Dalton Wilkins - daltongh@gmail.com
